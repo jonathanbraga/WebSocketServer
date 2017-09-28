@@ -1,9 +1,9 @@
 {
-  "name": "socketio-simple-chat",
+  "name": "web-socket-server",
   "version": "1.0.0",
   "description": "A simple NodeJS and Socket.io chat script",
   "main": "index.js",
-  "author": "Daniel Campos <d.ericeira@hotmail.com>",
+  "author": "Jonathan Braga <jonathanb2br@gmail.com>",
   "license": "MIT",
   "repository": {
     "url": "http://",
